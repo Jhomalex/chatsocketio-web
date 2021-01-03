@@ -2,7 +2,7 @@
 Simple web application that allows real-time messaging using socket.io and Vue.js
 
 <p align="center">
-  <img width="400" src="./public/chat.gif">
+  <img width="600" src="./public/chat.gif">
 </p>
 
 ## Features
