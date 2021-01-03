@@ -1,4 +1,4 @@
-# Chat using Socket.io
+# Realtime chat frontend
 Simple web application that allows real-time messaging using socket.io and Vue.js
 
 <p align="center">
@@ -13,6 +13,9 @@ Simple web application that allows real-time messaging using socket.io and Vue.j
 - "Someone is writing" text.
 - Search between connected users.
 ```
+
+## Backend
+You can find the backend of this web app in: https://github.com/Jhomalex/chatsocketio-api
 
 ## Getting started
 
